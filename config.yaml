@@ -1,4 +1,2 @@
-input: input.csv
-output_dir: output
 services:
   - "deepl"
