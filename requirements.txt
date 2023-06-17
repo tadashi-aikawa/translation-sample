@@ -1,0 +1,5 @@
+fire
+owlmixin
+requests
+deepl
+black[d]
